@@ -20,3 +20,6 @@ Python, R, PowerBi, SQL, MS Excel, SPSS, Stata, GraphPad, MS PowerPlatform
 
 
 <h2>My Projects</h2>
+<ul>
+<li><a href="https://github.com/linus4one/PowerBidashboards">PowerBi Dashboards</a></li>
+</ul>
