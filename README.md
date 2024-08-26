@@ -16,6 +16,7 @@ Python, R, PowerBi, SQL, MS Excel, SPSS, Stata, GraphPad, MS PowerPlatform
 <ul>
 <li><a href="https://github.com/linus4one/PowerBidashboards">PowerBi Dashboards</a></li>
 <li><a href="https://github.com/linus4one/niger-delta_tb_hiv_spatial">Spatial Analysis of Tuberculosis in Niger Delta 2017 - 2022</a></li>
+<li><a href="https://github.com/linus4one/meta_analysis">Meta-analysis for Systematic Review in R</a></li>
 </ul>
 
 <h2>My GitHub contributions summary</h2>
