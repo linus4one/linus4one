@@ -5,7 +5,8 @@ Data Scientist | Business Analyst | Monitoring and Evaluations Expert | Epidemio
 
 <h2>Proficiencies</h2>
 Business Analysis, Machine Learning, Data Visualization, Research,
-<ul>Python, R, PowerBi, SQL, MS Excel, SPSS, Stata, GraphPad, MS PowerPlatform</ul>
+<ul>
+Python, R, PowerBi, SQL, MS Excel, SPSS, Stata, GraphPad, MS PowerPlatform</ul>
 
 
 <h2>Publications</h2>
