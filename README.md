@@ -4,8 +4,9 @@ Data Scientist | Business Analyst | Monitoring and Evaluations Expert | Epidemio
 ![](https://komarev.com/ghpvc/?username=linus4one&color=05F26C)
 
 <h2>Proficiencies</h2>
-Business Analysis, Machine Learning, Data Visualization, Research
-Python, R, PowerBi, SQL, MS Excel, SPSS, Stata, GraphPad, MS PowerPlatform
+Business Analysis, Machine Learning, Data Visualization, Research,
+<ul>Python, R, PowerBi, SQL, MS Excel, SPSS, Stata, GraphPad, MS PowerPlatform</ul>
+
 
 <h2>Publications</h2>
 <ul>
