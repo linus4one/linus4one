@@ -1,3 +1,4 @@
+
 ## 👋 Hi there, I'm Linus Ossai-Chidi
 Data Scientist | Business Analyst | Monitoring and Evaluations Expert | Epidemiologist | Microbiologist
 
@@ -23,7 +24,6 @@ Data Scientist | Business Analyst | Monitoring and Evaluations Expert | Epidemio
 <h2>My GitHub contributions summary</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=linus4one&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
 
 
 
