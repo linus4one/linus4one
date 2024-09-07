@@ -14,7 +14,7 @@ Data Scientist | Business Analyst | Monitoring and Evaluations Expert | Epidemio
 <li><a href="https://orcid.org/0000-0002-5385-0389"><i>Peer Reviewed Publications</i></a></li>
 </ul>
 
-<h2>My Projects</h2>
+<h2>Selected Projects</h2>
 <ul>
 <li><a href="https://github.com/linus4one/PowerBidashboards">PowerBi Dashboards</a></li>
 <li><a href="https://github.com/linus4one/niger-delta_tb_hiv_spatial">Spatial Analysis of Tuberculosis in Niger Delta 2017 - 2022</a></li>
