@@ -12,7 +12,7 @@ Data Scientist | Business Analyst | Monitoring and Evaluations Expert | Epidemio
 <ul>
 <li><a href="https://github.com/linus4one/PowerBidashboards">PowerBi Dashboards</a></li>
 <li><a href="https://github.com/linus4one/niger-delta_tb_hiv_spatial">Spatial Analysis of Tuberculosis in Niger Delta 2017 - 2022</a></li>
-<li><a href="https://github.com/linus4one/meta_analysis">Meta-analysis for Systematic Review in R</a></li>
+<li><a href="https://github.com/linus4one/meta_analysis_for_proportions">Metanalaysis in Sytematic Reviews</li>
 </ul>
 
 <h2>Publications</h2>
