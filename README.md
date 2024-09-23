@@ -16,11 +16,6 @@ Data Scientist | Business Analyst | Digital Solutions
 <li><a href="https://github.com/linus4one/meta_analysis_for_proportions">Metanalaysis in Sytematic Reviews</li>
 </ul>
 
-<h2>Publications</h2>
-<ul>
-<li><a href="https://orcid.org/0000-0002-5385-0389"><i>Peer Reviewed Publications</i></a></li>
-</ul>
-
 
 <h2>My GitHub contributions summary</h2>
 
