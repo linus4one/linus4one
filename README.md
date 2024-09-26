@@ -13,7 +13,7 @@ Data Scientist | Business Analyst | Digital Solutions
 <li><a href="https://github.com/linus4one/PowerBidashboards">PowerBi Dashboards</a></li>
 <li><a href="https://github.com/linus4one/epl2024_25_stats/">English Premier League 2024/25 Statistics: Power BI</a></li>
 <li><a href="https://github.com/linus4one/niger-delta_tb_hiv_spatial">Spatial Analysis of Tuberculosis in Niger Delta 2017 - 2022 with R</a></li>
-<li><a href="https://github.com/linus4one/meta_analysis_for_proportions">Metanalaysis in Sytematic Reviews with R</li>
+<li><a href="https://github.com/linus4one/meta_analysis_for_proportions">Meta-Analaysis in Sytematic Reviews with R</li>
 </ul>
 
 
