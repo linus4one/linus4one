@@ -1,6 +1,6 @@
 
 ## 👋 Hi there, I'm Linus Ossai-Chidi
-Data Scientist | Business Analyst | Digital Solutions
+Data Scientist | Business Analyst | Digital Solutions Expert
 
 ![](https://komarev.com/ghpvc/?username=linus4one&color=05F26C)
 
