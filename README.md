@@ -7,6 +7,7 @@ Data Scientist | Business Analyst | Digital Solutions
 <h2>Proficiencies</h2>
 <ul>Business Analysis | Machine Learning | Data Visualization | Research</ul> 
 <ul>Python | R | PowerBi | SQL | MS Excel | SPSS | Stata | GraphPad | MS PowerPlatform</ul>
+<ul>HTML | CSS | JavaScript</ul>
 
 <h2>Selected Projects</h2>
 <ul>
